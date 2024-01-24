@@ -9,4 +9,4 @@ langchain-community==0.0.11
 langchain-core==0.1.9
 langsmith==0.0.79
 streamlit==1.29.0
-dotenv==1.0.0
+ python-dotenv==1.0.0
