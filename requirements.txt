@@ -1,0 +1,6 @@
+pandas
+numpy
+openai
+tqdm
+python-dotenv
+streamlit
